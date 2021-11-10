@@ -1,0 +1,36 @@
+.nav_collections {
+  display: flex;
+}
+
+.right_nav_items > a {
+  text-decoration: none;
+  margin-left: 40px;
+}
+.right_nav_items {
+  margin-left: 500px;
+  margin-top: 20px;
+}
+.left_nav_items {
+  display: flex;
+  margin-left: 40px;
+}
+.tech_text {
+  margin-left: 10px;
+}
+.left_images {
+  margin-top: 5px;
+}
+.section_1 {
+  background-image: url(/Images/bcg.jpeg);
+}
+
+.left_bottom {
+  display: flex;
+}
+.left_bottom_right {
+  margin-top: 60px;
+  margin-left: 100px;
+}
+.left_component_container {
+  margin-left: 40px;
+}
